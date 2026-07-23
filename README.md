@@ -1,2 +1,1 @@
-# Client-Pulse
-ClientPulse is a lightweight AI dashboard that scores mortgage brokerage clients on a 0–100 health index using activity recency, pending documents, renewal urgency, and communication responsiveness.
+ClientPulse is a lightweight AI dashboard that scores mortgage brokerage clients on a 0–100 health index using activity recency, pending documents, renewal urgency, and communication responsiveness. It automatically segments each account as Healthy, Needs Attention, At-Risk, or an Upsell Opportunity, with a plain-English reason for every flag — and an optional Claude-powered layer that generates a specific next-best-action per client. Built as a scaled-down version of the retention logic already running in BrokerMind AI.
